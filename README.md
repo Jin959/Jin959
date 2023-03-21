@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi I'm J Lee!
 
-<!--
-**Jin959/Jin959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💥Skill
 
-Here are some ideas to get you started:
+### Backend
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/mybatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FrontEnd
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+
+### Others
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+
+## 💥Project
+
+### [프리랜서 매칭/아웃소싱 플랫폼 API 서버]
+- 이지태스크를 모티브로 만든 프리랜서 매칭/아웃소싱 플랫폼 API 서버 프로젝트입니다.
+- [Repository](https://github.com/ASAC-E-Team/easytask)
+
+## 💥Channel
+- [Blog](https://jinlee.netlify.app/)
