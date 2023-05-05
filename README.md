@@ -14,7 +14,7 @@
 
 - 이지태스크를 모티브로 만든 아웃소싱 플랫폼 API 서버 프로젝트입니다.
 - 매칭 시스템 구현
-- [CI/CD 구축](https://github.com/Jin959/easytask-test#cicd-%EA%B5%AC%EC%B6%95)
+- [CI/CD 구축](https://github.com/Jin959/easytask-test#cicd-구축)
 
 - [Repository](https://github.com/ASAC-E-Team/easytask)
 
