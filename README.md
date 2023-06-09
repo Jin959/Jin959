@@ -1,4 +1,4 @@
-## Hi I'm J Lee!
+## Hi there 👋
 
 ## 📌Tech Stacks
 
